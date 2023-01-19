@@ -1,7 +1,7 @@
 // Week 3 - Loops
 
 // In the following exercises, you will need to place your code or answer underneath each
-// exercise prompt.
+// exercise prompt..
 
 // First try answering these without using references or looking up any information.
 // Then, check your answer by using references and/or running your code.
