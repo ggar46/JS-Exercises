@@ -10,7 +10,7 @@
 // But make sure you understand why the correct answer is right.
 
 // Exercise 1. Write a 'while' loop that prints the integers (whole numbers)
-// between 1 and 5 (inclusive)..
+// between 1 and 5 (inclusive)..word
 
 let i = 1;
 while (i<=5){
